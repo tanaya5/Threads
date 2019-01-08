@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/tinout-blk.dir/tinout-blk.c.o  -o tinout-blk -rdynamic ../helper/libhelper.a -lpthread 

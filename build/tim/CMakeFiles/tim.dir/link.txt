@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/tim.dir/tim.c.o  -o tim -rdynamic ../helper/libhelper.a -lpthread 

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/helper.h
+pthread.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/time.h
+-
+errno.h
+-
+time.h
+-
+helper.h
+../include/helper.h
+
+/home/ttanaya/ece650-threads/tinout/tinout-blk.c
+pthread.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+fcntl.h
+-
+errno.h
+-
+helper.h
+/home/ttanaya/ece650-threads/tinout/helper.h
+

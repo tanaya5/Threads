@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/kill-ex.dir/kill-ex.c.o  -o kill-ex -rdynamic ../helper/libhelper.a -lpthread 
