@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/t.dir/t.c.o  -o t -rdynamic ../helper/libhelper.a -lpthread 

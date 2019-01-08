@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/t-unsafe.dir/t-unsafe.c.o  -o t-unsafe -rdynamic ../helper/libhelper.a -lpthread 

@@ -1,0 +1,8 @@
+/home/ttanaya/ece650-threads/build/helper/CMakeFiles/helper.dir
+/home/ttanaya/ece650-threads/build/kill-ex/CMakeFiles/kill-ex.dir
+/home/ttanaya/ece650-threads/build/lk/CMakeFiles/lk.dir
+/home/ttanaya/ece650-threads/build/prod-cons/CMakeFiles/t.dir
+/home/ttanaya/ece650-threads/build/prod-cons/CMakeFiles/t-unsafe.dir
+/home/ttanaya/ece650-threads/build/tim/CMakeFiles/tim.dir
+/home/ttanaya/ece650-threads/build/tinout/CMakeFiles/tinout.dir
+/home/ttanaya/ece650-threads/build/tinout/CMakeFiles/tinout-blk.dir

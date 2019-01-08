@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ttanaya/ece650-threads/prod-cons/t-unsafe.c
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+string.h
+-
+strings.h
+-
+sys/types.h
+-
+sys/time.h
+-
+unistd.h
+-
+errno.h
+-
+limits.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/lk.dir/lk.c.o  -o lk -rdynamic ../helper/libhelper.a -lpthread 
